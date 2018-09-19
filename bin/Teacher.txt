@@ -1,0 +1,3 @@
+4523 James Jameson 19820214 0 1 3 Engineering ENG4389 MAC2281
+1526 Mother Theresa 19501109 1 1 1 History HST2350
+8931 Ahmad Jamir 19900814 0 1 2 Business FRC2230

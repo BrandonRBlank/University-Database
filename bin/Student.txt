@@ -1,0 +1,7 @@
+8888 Joseph Smithers 19940215 0 1 3 3.5 Engineering MAC2281 A
+8565 Janette Domarow 19870822 1 1 0 2.6 Language HST2350 B ENG4389 C
+9863 Maximillian Power 19950101 0 1 0 2.8 Business ENG4389 B
+4123 Shawndra Lemmings 19901103 1 1 0 3.4 Language FRC2230 D
+5326 Edgar Washington 19890209 1 1 3 2.1 History HST2350 A
+9999 Teddy Roosevelt 18581007 0 1 1 3.9 Engineering ENG4389 F
+1025 Jesus Christ 10041225 0 1 1 3.1 Engineering MAC2281 B
